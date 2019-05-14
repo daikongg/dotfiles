@@ -1,9 +1,10 @@
 dotfiles
 ========
 
-.files
-
 ```
+$ mkdir -p ~/src/github.com/daikongg
+$ cd ~/src/github.com/daikongg
+$ git clone git@github.com:daikongg/dotfiles.git
 $ sh install.sh
 ```
 
